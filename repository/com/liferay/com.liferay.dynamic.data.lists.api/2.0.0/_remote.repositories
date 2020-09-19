@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 07:57:37 COT 2020
+com.liferay.dynamic.data.lists.api-2.0.0.jar>central=
+com.liferay.dynamic.data.lists.api-2.0.0.pom>central=
+com.liferay.dynamic.data.lists.api-2.0.0-sources.jar>central=

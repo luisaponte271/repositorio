@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 07:58:41 COT 2020
+org.eclipse.jdt.core-3.7.1.pom>central=
+org.eclipse.jdt.core-3.7.1.jar>central=
+org.eclipse.jdt.core-3.7.1-sources.jar>central=

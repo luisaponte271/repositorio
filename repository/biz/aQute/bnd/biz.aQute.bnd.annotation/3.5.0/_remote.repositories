@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 07:56:18 COT 2020
+biz.aQute.bnd.annotation-3.5.0.jar>central=
+biz.aQute.bnd.annotation-3.5.0.pom>central=
+biz.aQute.bnd.annotation-3.5.0-sources.jar>central=

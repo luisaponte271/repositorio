@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 07:58:02 COT 2020
+com.liferay.portal.settings.web-1.2.9-sources.jar>central=
+com.liferay.portal.settings.web-1.2.9.pom>central=
+com.liferay.portal.settings.web-1.2.9.jar>central=

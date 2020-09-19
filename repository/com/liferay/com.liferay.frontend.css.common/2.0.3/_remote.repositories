@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 07:58:04 COT 2020
+com.liferay.frontend.css.common-2.0.3.jar>central=
+com.liferay.frontend.css.common-2.0.3.pom>central=
+com.liferay.frontend.css.common-2.0.3-sources.jar>central=

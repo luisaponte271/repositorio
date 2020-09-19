@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 07:57:03 COT 2020
+com.liferay.calendar.api-2.0.4-sources.jar>central=
+com.liferay.calendar.api-2.0.4.jar>central=
+com.liferay.calendar.api-2.0.4.pom>central=
