@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 14:21:20 COT 2020
+commons-configuration-1.9.jar>central=
+commons-configuration-1.9-sources.jar>central=
+commons-configuration-1.9.pom>central=
